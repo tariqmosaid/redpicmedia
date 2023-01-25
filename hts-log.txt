@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 03 Dec 2022 23:10:32 at https://mediaman.ma +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://mediaman.ma/* +*https://mediaman.ma/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mediaman.ma -O1 "C:\My Web Sites\REEED" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://mediaman.ma/* +*https://mediaman.ma/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:10:33	Warning: 	File not parsed, looks like binary: https://mediaman.ma/robots.txt
+23:13:26	Error: 	"Unknown error" (451) at link https://cdn.rtlcss.com/bootstrap/v4.2.1/js/bootstrap.min.js (from https://mediaman.ma/)
+23:13:26	Error: 	"Not Found" (404) at link https://mediaman.ma/c (from https://connect.facebook.net/en_US/fbevents.js)
+23:13:26	Error: 	"Not Found" (404) at link https://mediaman.ma/b (from https://connect.facebook.net/en_US/fbevents.js)
+23:13:26	Error: 	"Not Found" (404) at link https://mediaman.ma/POST (from https://connect.facebook.net/en_US/fbevents.js)
+23:13:26	Warning: 	File not parsed, looks like binary: https://mediaman.ma/assets/css/fonts/fa-brands-400.html
+23:13:26	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/REEED/mediaman.ma/assets/css/fonts/fa-brands-400.html
+23:13:27	Warning: 	File not parsed, looks like binary: https://mediaman.ma/assets/css/fonts/fa-duotone-900.html
+23:13:27	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/REEED/mediaman.ma/assets/css/fonts/fa-duotone-900.html
+23:13:41	Warning: 	File not parsed, looks like binary: https://mediaman.ma/assets/css/fonts/fa-light-300.html
+23:13:41	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/REEED/mediaman.ma/assets/css/fonts/fa-light-300.html
+23:13:47	Warning: 	File not parsed, looks like binary: https://mediaman.ma/assets/css/fonts/fa-regular-400.html
+23:13:47	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/REEED/mediaman.ma/assets/css/fonts/fa-regular-400.html
+23:13:53	Warning: 	File not parsed, looks like binary: https://mediaman.ma/assets/css/fonts/fa-solid-900.html
+23:13:53	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/REEED/mediaman.ma/assets/css/fonts/fa-solid-900.html
+23:13:58	Warning: 	Link https://mediaman.ma/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 26 seconds : 301 links scanned, 296 files written (81042842 bytes overall) [69969898 bytes received at 339659 bytes/sec], 76727462 bytes transferred using HTTP compression in 275 files, ratio 85%, 9.4 requests per connection
+(4 errors, 12 warnings, 0 messages)

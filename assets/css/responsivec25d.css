@@ -1,0 +1,694 @@
+@media (max-width: 600px) and (min-width: 0px) {
+
+    body {
+        overflow-x: hidden !important;
+    }
+
+    section.banner.banner-style-1 h1.title {
+        line-height: 50px !important;
+        font-size: 35px !important;
+        text-align: center;
+    }
+
+    .about-expert {
+        margin-bottom: 57px;
+    }
+    
+    .banner .banner-content .subtitle {
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    
+    a.axil-btn.btn-fill-primary.btn-large {
+        display: block;
+        margin-bottom: 10px;
+    }
+    
+    .banner.banner-style-1 .banner-content {
+        margin-top: 30px;
+    }
+    
+    section.section-padding-equal a.axil-btn.btn-large.btn-fill-primary {
+        max-width: initial !important;
+        width: 100%;
+    }
+    
+    .how-we-do-it .heading-light-left span.subtitle,
+    .how-we-do-it .heading-light-left h2.title,
+    .how-we-do-it .heading-light-left p.opacity-50 {
+        text-align: center;
+    }
+    
+    .how-we-do-it .heading-light-left h2.title {
+        margin-bottom: 20px;
+    }
+    
+    .how-we-do-it .heading-light-left span.subtitle {
+        margin-bottom: 10px;
+    }
+    
+    .services-grid:hover .content p, .services-grid.active .content p {
+        margin-bottom: 10px;
+    }
+    
+    .how-we-do-it .services-grid .thumbnail {
+        margin-left: 15px;
+    }
+    
+    .services-grid h5.title {
+        margin-bottom: 15px;
+    }
+    
+    .our-works .heading-left span.subtitle,
+    .our-works .heading-left h2.title {
+        text-align: center;
+    }
+    
+    .our-works .heading-left h2.title br {
+        display: none;
+    }
+    
+    .isotope-project-btn button {
+        width: 49%;
+        margin-left: 0 !important;
+    }
+
+    section.whychooseus.section-padding-equal h2.title.text-center {
+        font-size: 34px !important;
+    }
+    
+    .isotope-button.isotope-project-btn {
+        margin-bottom: 40px;
+    }
+    
+    .our-works .heading-left {
+        margin-bottom: 40px;
+    }
+    
+    section.section.section-padding-equal.bg-color-light.faq-area {
+        padding-bottom: 220px;
+    }
+    
+    .shape-group-6 .shape.shape-4 img {display: block;margin: 0 auto;}
+    
+    .section-heading .subtitle {
+        text-align: center;
+    }
+    
+    .faq-area .section-heading .title {
+        text-align: center;
+    }
+    
+    .section-heading.heading-left {
+        margin-bottom: 30px;
+    }
+    
+    .whys h4, .whys p {
+        text-align: center !important;
+    }
+    
+    .whys h4 {
+        margin-bottom: 20px;
+    }
+    
+    .whys p {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+.col-md-6.why-img-ph {
+    position: absolute;
+}
+
+.col-md-6.why-img-ph img {
+    opacity: 0.1;
+}
+
+.faq-accordion .accordion-button.collapsed {
+    text-align: right;
+    font-size: 15px;
+}
+
+.call-to-action-area:before {
+    height: calc( 100% - 55px );
+}
+
+a.axil-btn.btn-large.btn-fill-white {
+    width: 70%;
+}
+
+h2.title.text-center {
+    margin-bottom: 40px !important;
+    font-size: 20px !important;
+}
+
+.footer-social-link ul.list-unstyled {
+    padding-right: 0;
+    width: 65%;
+}
+
+footer.footer-area .footer-top {
+    margin-top: 80px;
+    margin-bottom: 30px;
+    padding: 0;
+}
+
+h6.widget-title {
+    text-align: center;
+}
+
+.footer-menu-link li {
+    text-align: center;
+}
+
+.footer-widget {
+    margin-bottom: 40px;
+}
+
+.footer-newsletter .title img.light-version-logo {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.footer-widget p {
+    text-align: center;
+}
+
+a#backto-top i {
+    height: 25px;
+}
+
+.axil-mainmenu {
+    direction: ltr;
+}
+
+.header-action>ul {
+    padding-right: 10px;
+}
+
+.header-logo img {
+    padding-left: 10px;
+}
+
+/*****************************************************************************************/
+
+h1.elementor-heading-title.elementor-size-default {
+    text-align: center;
+    font-size: 34px;
+    line-height: 50px !important;
+}
+
+.elementor-icon-box-content h5, .elementor-icon-box-content p, .elementor-widget-wrap h5, .elementor-widget-wrap p {
+    margin-top: 30px !important;
+    margin-bottom: 40px;
+    text-align: center !important;
+}
+
+.elementor-element.elementor-element-3bb2ad0.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-invisible.elementor-widget.elementor-widget-text-editor {
+    display: none;
+}
+
+.elementor-35 .elementor-element.elementor-element-d5b73a0 .elementor-widget-container {
+    margin-left: 0;
+}
+
+.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-678bcd8 {
+    position: absolute;
+    top: 245px;
+}
+
+.elementor-element.elementor-element-5ad24f9.elementor-widget__width-auto.elementor-mobile-align-center.elementor-widget-mobile__width-inherit.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-invisible.elementor-widget.elementor-widget-button {
+    margin-top: 280px;
+}
+
+.elementor-35 .elementor-element.elementor-element-f8ff2d6 .elementor-widget-container:first-child {
+    padding-top: 20px;
+}
+
+.elementor-35 .elementor-element.elementor-element-4dfe272 .elementor-widget-container:last-child {
+    padding-bottom: 0;
+}
+
+.elementor-element.elementor-element-2dbd333.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-invisible.elementor-widget.elementor-widget-image {
+    padding-top: 50px;
+}
+
+h2.elementor-heading-title.elementor-size-default {
+    text-align: center;
+}
+
+.elementor-35 .elementor-element.elementor-element-a865545:not(.elementor-motion-effects-element-type-background) {
+    padding-bottom: 30px;
+}
+
+.elementor-element.elementor-element-4f460ee.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-invisible.elementor-widget.elementor-widget-heading .elementor-widget-container,
+.elementor-35 .elementor-element.elementor-element-4cf7920 .elementor-widget-container {
+    margin-bottom: 10px;
+}
+
+.elementor-element.elementor-element-a126d49.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-invisible.elementor-widget.elementor-widget-text-editor p,
+.elementor-element.elementor-element-9e9d42c.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-invisible.elementor-widget.elementor-widget-text-editor p {
+    margin-top: 20px !important;
+    margin-bottom: 0;
+}
+
+.elementor-element.elementor-element-2b4fd44.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-invisible.elementor-widget.elementor-widget-heading .elementor-widget-container {
+    margin-bottom: 0;
+}
+
+section.elementor-section.elementor-top-section.elementor-element.elementor-element-fdfa214.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding-bottom: 0px;
+}
+
+h3.elementor-heading-title.elementor-size-default {
+    text-align: center;
+}
+
+li.elementor-icon-list-item span.elementor-icon-list-icon {
+    width: 20%;
+}
+
+li.elementor-icon-list-item span.elementor-icon-list-text {
+    width: 80%;
+}
+
+.elementor-element.elementor-element-694ded5.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-widget.elementor-widget-heading h5.elementor-heading-title.elementor-size-default,
+.elementor-element.elementor-element-2fa7dec.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-widget.elementor-widget-heading h5.elementor-heading-title.elementor-size-default,
+.elementor-element.elementor-element-1a194a5.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-widget.elementor-widget-heading h5.elementor-heading-title.elementor-size-default{
+    margin-top: 10px !important;
+    margin-bottom: 0px;
+}
+
+.elementor-element.elementor-element-6c93205.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-widget.elementor-widget-text-editor p,
+.elementor-element.elementor-element-4a49840.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-widget.elementor-widget-text-editor p,
+.elementor-element.elementor-element-5d3a5ce.de_curtain_duration_700.de_curtain_direction_lr.de_curtain_easing_linear.elementor-widget.elementor-widget-text-editor p {
+    margin-bottom: 0px;
+    margin-top: 10px !important;
+}
+
+section.elementor-section.elementor-top-section.elementor-element.elementor-element-b6d8204.elementor-reverse-tablet.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding-bottom: 0;
+}
+
+section.partnersRed {
+    padding: 90px 40px !important;
+}
+
+section.partners {
+    display: none;
+}
+
+section.partnersRed p {
+    margin-bottom: 50px;
+}
+
+li.elementor-icon-list-item {
+    width: 50%;
+    display: block;
+    margin: 0 auto !important;
+}
+
+body#home-page .call-to-action-footer .section-heading .title {
+    font-size: 34px !important;
+}
+
+.elementor-35 .elementor-element.elementor-element-67fab88 .elementor-widget-container,
+.elementor-35 .elementor-element.elementor-element-2aa52c7 .elementor-widget-container,
+.elementor-35 .elementor-element.elementor-element-30ec091 .elementor-widget-container {
+    margin-bottom: 20px;
+}
+
+body:not(.rtl) .elementor-35 .elementor-element.elementor-element-4e7cd97,
+body:not(.rtl) .elementor-35 .elementor-element.elementor-element-0437ac8 {
+    right: initial;
+    left: 67.925%;
+}
+
+/*********************************************************************/
+section#call-us {
+    display: block !important;
+    width: 100% !important;
+    overflow: hidden;
+}
+.carousel-control-prev-icon, span.carousel-control-next-icon {
+    filter: invert(1);
+}
+label.col-4.col-form-label.phone-wi {
+    width: 100%;
+}
+/****************************************************/
+
+.contact-page .offset-xl-1 {
+    margin: 0 !important;
+}
+
+.contact-page .contact-info .phone-number a {
+    font-size: 25px;
+}
+
+.contact-page .contact-info p {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.contact-page .contact-info .title {
+    margin-bottom: 30px;
+}
+
+.contact-page .contact-form-box {
+    padding: 30px 20px;
+}
+
+.contact-page .section-padding {
+    padding-top: 40px;
+}
+
+.contact-page section.section.section-padding h3.title {
+    line-height: 45px;
+}
+.contact-page .breadcrumb .title {
+    text-align: center;
+}
+
+.contact-page .breadcrumb ul {
+    text-align: center;
+    padding: 0;
+}
+/**********about-page****************/
+.about-page .breadcrumb-banner .section-heading .title.h2,
+.services-page .breadcrumb-banner .section-heading .title.h2 {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.about-page .breadcrumb-banner .section-heading p,
+.services-page .breadcrumb-banner .section-heading p {
+    text-align: center;
+    margin-bottom: 0 !important;
+}
+
+.about-page .section-heading.heading-left {
+    margin-bottom: 10px;
+}
+
+.about-page .about-team .thumbnail {
+    padding: 0;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.about-page .about-team h2 {
+    text-align: center;
+}
+
+.about-page .about-team .section-heading p {
+    text-align: center !important;
+}
+
+.about-page section.section.section-padding.bg-color-dark.pb--80.pb_lg--40.pb_md--20 span.subtitle {
+    text-align: right;
+}
+
+.about-page .heading-light-left p {
+    margin-bottom: 0 !important;
+}
+
+.about-page .about-quality {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.about-page .section-heading.heading-light-left.mb--100 {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+/**************** services-page  ****************/
+.services-page .section-heading .title {
+    text-align: center;
+}
+
+.services-page .service-scroll-nav ul {
+    padding: 0;
+}
+
+.services-page .service-scroll-navigation-area .section-heading a {
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background: #605ef4;
+    color: #ecf2f6;
+}
+/******************works-page*******************/
+.works-page .breadcrumb-banner .section-heading .title.h2 {
+    margin: 0 auto;
+    width: 90% !important;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+.works-page .breadcrumb-banner .section-heading p.title.h2 {
+    line-height: var(--line-height-b1);
+    font-size: 16px;
+    color: var(--color-body);
+    font-weight: 100;
+}
+.works-page .isotope-project-btn button {
+    width: 49%;
+    margin-right: 0;
+}
+.works-page .isotope-project-btn button:last-child {
+    margin-right: 0;
+}
+/************service-logo-page******************/
+.service-logo-page .breadcrumb-banner .section-heading .title.h2 {
+    margin: 0 auto;
+    width: 90% !important;
+    text-align: center;
+    font-size: 32px !important;
+    margin-bottom: 30px;
+}
+
+.service-logo-page .breadcrumb-banner.single-breadcrumb .section-heading p {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.service-logo-page section#splsh-features .section-heading.heading-light-left {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+/**********************service-development***************************/
+.service-development .banner.banner-style-3 .banner-content .title {
+    margin: 0 auto;
+    width: 90% !important;
+    text-align: center;
+    font-size: 32px !important;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.service-development .banner.banner-style-3 .banner-content .subtitle {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.service-development .banner .banner-content .btn-group a.axil-btn.btn-fill-primary.btn-large {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.service-development .banner .banner-content a.about-btn {
+    margin: 0 auto;
+    display: block;
+    position: relative;
+}
+
+.service-development section.pt--250.pt_lg--200.pt_md--100.pt_sm--80.case-study-page-area {
+    padding-top: 0;
+}
+
+.service-development .case-study-featured .section-heading .title {
+    text-align: center;
+}
+
+.service-development .case-study-featured .section-heading p {
+    text-align: center;
+}
+
+.service-development section.pt--250.pt_lg--200.pt_md--100.pt_sm--80.case-study-page-area a.axil-btn.btn-fill-primary.btn-large {
+    width: 60%;
+    margin: 0 auto;
+    float: initial !important;
+}
+
+.service-development section.section.section-padding-equal.bg-color-ship-gray .section-heading.heading-light-left.mb--90 {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.service-development section.section.section-padding-equal.bg-color-ship-gray h2.title {
+    margin-bottom: 20px;
+}
+/*************service-marketing*****************/
+.service-marketing .banner.banner-style-1 .banner-content .title {
+    margin: 0 auto;
+    width: 90% !important;
+    text-align: center;
+    font-size: 32px !important;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.service-marketing .banner .banner-content .axil-btn {
+    float: initial !important;
+    margin: 0 auto;
+    display: block;
+    width: 60%;
+}
+
+.service-marketing .col-md-31 {
+    width: 50%;
+    padding: 10px;
+}
+
+.service-marketing .col-md-31 .social-service-box {
+    margin: 0;
+}
+
+.service-marketing .col-md-31:last-child {
+    margin: 0 auto;
+}
+
+.service-marketing .case-study-featured .section-heading .title {
+    text-align: center;
+    font-size: 34px !important;
+}
+
+.service-marketing .case-study-featured .section-heading p {
+    text-align: center;
+}
+
+.service-marketing a.axil-btn.btn-large.btn-primary {
+    float: initial !important;
+    margin: 0 auto;
+    display: block;
+    width: 70%;
+}
+
+.service-marketing section.section.section-padding.bg-color-dark .section-heading .subtitle {
+    text-align: right;
+}
+
+.service-marketing .heading-light-left .title, .heading-light-left p {
+    width: 100%;
+}
+
+.service-marketing .section-heading.heading-light-left.mb--100 {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.service-marketing section.section.section-padding.bg-color-dark .about-quality {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.service-marketing .banner.banner-style-1 {
+    margin-bottom: 50px;
+}
+/************************service-content****************************/
+.service-content .case-study-featured .section-heading .title {
+    text-align: center;
+}
+
+.service-content .case-study-featured .section-heading p {
+    text-align: center;
+}
+
+.service-content section#splash-why-choose h2.title {
+    text-align: center;
+}
+
+.service-content section#splash-why-choose .section-heading.heading-left p {
+    text-align: center;
+}
+
+.service-content .service-content .slick-dot-nav .slick-dots {
+    text-align: center;
+}
+/***********************team-page**************************/
+.team-page .breadcrumb-banner .section-heading .title.h2 {
+    width: 100% !important;
+    text-align: center !important;
+}
+
+.team-page .breadcrumb-banner .section-heading p {
+    text-align: center !important;
+    margin-bottom: 60px !important;
+}
+
+.team-page section.section-padding-equal.team-details-area img.paralax-image {
+    width: 85% !important;
+    margin: 0 auto !important;
+    display: block !important;
+    margin-bottom: 30px !important;
+}
+
+.team-page .team-details-content h2.title {
+    text-align: center !important;
+}
+
+.team-page .team-details-content span.subtitle {
+    margin: 0 auto !important;
+    text-align: center !important;
+}
+
+.team-page .team-details-content p {
+    margin-top: 20px !important;
+    text-align: center !important;
+}
+
+.team-page section.section.section-padding.bg-color-dark.pb--70.pb_lg--20.pb_md--0 h2.title.mb--50.text-center {
+    font-size: 34px !important;
+    margin-bottom: 30px !important;
+}
+
+.team-page section.section.section-padding.bg-color-dark.pb--70.pb_lg--20.pb_md--0 p.text-center {
+    text-align: center !important;
+}
+
+.team-page .row.phone-f .row[dir="rtl"] {
+    margin: 0 !important;
+}
+
+.team-page .team-grid h4.title, .team-grid .content .designation {
+    text-align: center !important;
+}
+
+.team-page .team-grid {
+    margin-bottom: 90px;
+}
+
+.team-page .team-grid .thumbnail {
+    margin-bottom: -110px;
+}
+
+
+
+
+
+
+}
